@@ -8,7 +8,7 @@ This instruction is written for Mac and Linux users.
 
 # Pull image from docker
 
-´docker pull innovationfleet/cca_for_splunk:latest´
+`docker pull innovationfleet/cca_for_splunk:latest`
 
 # Bind Mount
 
